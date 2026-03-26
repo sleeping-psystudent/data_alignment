@@ -1,0 +1,10 @@
+anthropic==0.86.0
+huggingface_hub==0.23.1
+openai==1.77.0
+google-generativeai==0.8.5
+tiktoken==0.12.0
+pandas==1.4.2
+openpyxl==3.1.5
+python-dotenv==1.1.0
+tenacity==9.1.4
+distro==1.9.0
