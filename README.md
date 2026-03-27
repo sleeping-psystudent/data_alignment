@@ -1,4 +1,4 @@
-# Agent For Truth - Team 1
+# Data Alignment
 
 A forensic linguistics toolkit for detecting AI-generated scam messages using multi-judge LLM fingerprinting.
 
